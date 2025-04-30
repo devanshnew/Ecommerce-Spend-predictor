@@ -2,7 +2,6 @@
 
 A Streamlit web app that uses **Linear Regression** to predict the yearly amount a customer is likely to spend — based on their session behavior and membership length.
 
-![App Screenshot](https://user-images.githubusercontent.com/your-screenshot-placeholder.png)
 
 ---
 
